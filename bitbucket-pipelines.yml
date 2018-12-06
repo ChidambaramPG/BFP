@@ -13,4 +13,4 @@ pipelines:
         script:
           - apt-get update 
           - apt-get -qq install git-ftp
-          - git-ftp init --user $FTP_USERNAME --passwd $FTP_PASS ftp://ftp.quinconx.com/testing_ftp_pipeline/
+          - git-ftp init --user $FTP_USERNAME --passwd $FTP_PASS -v ftp://ftp.quinconx.com/testing_ftp_pipeline/

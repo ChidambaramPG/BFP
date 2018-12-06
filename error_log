@@ -1,0 +1,5 @@
+[27-Nov-2018 21:14:55 America/Denver] PHP Fatal error:  Call to undefined method Equipmentmodel::re_save_purchase_details() in /home4/quinconx/public_html/prototype/bfp_new/application/controllers/Equipment.php on line 229
+[29-Nov-2018 01:30:11 America/Denver] PHP Fatal error:  Class 'Date' not found in /home4/quinconx/public_html/prototype/bfp_new/application/views/dashboard.php on line 3462
+[29-Nov-2018 01:30:20 America/Denver] PHP Fatal error:  Class 'Date' not found in /home4/quinconx/public_html/prototype/bfp_new/application/views/dashboard.php on line 3462
+[29-Nov-2018 01:30:24 America/Denver] PHP Fatal error:  Class 'Date' not found in /home4/quinconx/public_html/prototype/bfp_new/application/views/dashboard.php on line 3462
+[29-Nov-2018 01:30:53 America/Denver] PHP Fatal error:  Class 'Date' not found in /home4/quinconx/public_html/prototype/bfp_new/application/views/dashboard.php on line 3462

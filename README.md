@@ -1,3 +1,3 @@
 # bfp
 
-bfp erp system for Work Order flow
+BFP erp system for Work Order Flow control
